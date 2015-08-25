@@ -1,0 +1,12 @@
+arduino-mega (1.0.1) uecide; urgency=low
+
+  * Fixed group
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Sat, 31 Jan 2015 21:41:25 +0000
+
+arduino-mega (1.0.0) uecide; urgency=low
+
+  * Initial Release.
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Sat, 31 Jan 2015 21:41:25 +0000
+
